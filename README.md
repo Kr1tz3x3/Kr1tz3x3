@@ -1,4 +1,4 @@
-&emsp; &emsp; [![Kritzexe](https://www.hackthebox.eu/badge/image/409665)](https://www.hackthebox.eu/home/users/profile/409665)
+&emsp; [![Kritzexe](https://www.hackthebox.eu/badge/image/409665)](https://www.hackthebox.eu/home/users/profile/409665)
 
 ### Here's what I'm working on :space_invader:	
 
